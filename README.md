@@ -1,1 +1,4 @@
-# Elixir_PlaygroundExperiments in learning Elxir.
+# Elixir_Playground
+
+Experiments in learning Elxir.
+
